@@ -28,6 +28,10 @@ N/A
 
 The web application is a simple webpage with 3 navigation bar links to the content in the main section of the page. Simply click each link to travel to the corresponding articles.
 
+> Deployment can be found here:
+[https://simonjbr.github.io/horiseon-refactor/](https://simonjbr.github.io/horiseon-refactor/)
+
+The following image is a screen shot of the deployed webpage:
 ![Horiseon webpage screen capture](./assets/images/horiseon-refactor-screen-capture.png)
 
 ## Credits
